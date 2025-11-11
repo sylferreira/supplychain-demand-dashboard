@@ -1,2 +1,2 @@
 # supplychain-demand-dashboard
-Puython Inventory template
+Python Inventory template
