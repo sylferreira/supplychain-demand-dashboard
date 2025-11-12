@@ -6,17 +6,17 @@ Este projeto foi desenvolvido como parte de um portfólio de análise de dados e
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- 📦 **Resumo de inventário** por categoria de produto  
-- 🌡️ **Heatmap de desempenho** (Available vs Demand)  
-- 📈 **Tendência temporal de demanda**  
-- ⚠️ **Alertas automáticos** quando a demanda excede a disponibilidade  
-- 💡 **Design responsivo com Bootstrap**
+- **Resumo de inventário** por categoria de produto  
+- **Heatmap de desempenho** (Available vs Demand)  
+- **Tendência temporal de demanda**  
+- **Alertas automáticos** quando a demanda excede a disponibilidade  
+- **Design responsivo com Bootstrap**
 
 ---
 
-## 🧠 Stack utilizada
+## Stack utilizada
 
 - **Python 3.10+**
 - **Plotly Dash**
@@ -25,7 +25,7 @@ Este projeto foi desenvolvido como parte de um portfólio de análise de dados e
 
 ---
 
-## ⚙️ Como executar localmente
+## Como executar localmente
 
 ```bash
 # Clone o repositório
